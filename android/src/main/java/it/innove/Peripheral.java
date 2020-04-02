@@ -22,6 +22,8 @@ import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.WritableArray;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.modules.core.RCTNativeAppEventEmitter;
+import com.neovisionaries.bluetooth.ble.advertising.ADPayloadParser;
+import com.neovisionaries.bluetooth.ble.advertising.ADStructure;
 
 import org.json.JSONException;
 

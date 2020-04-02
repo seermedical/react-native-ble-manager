@@ -43,4 +43,5 @@ repositories {
 
 dependencies {
 	implementation "com.facebook.react:react-native:+"
+	implementation "com.neovisionaries:nv-bluetooth:1.8"
 }
